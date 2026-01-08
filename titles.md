@@ -8,3 +8,4 @@
 - Shawshank Redemption
 - Inception
 - The Seven
+- Coherence
