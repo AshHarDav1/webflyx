@@ -7,3 +7,4 @@
 - 12 Monkeys
 - Shawshank Redemption
 - Inception
+- The Seven
